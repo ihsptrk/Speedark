@@ -89,7 +89,6 @@ body{
     color:#b5b5b5;
 }
 
-/*przyciski*/
 .btn{
     position: relative;
     display: inline-flex;
@@ -198,13 +197,6 @@ body{
     height: 150px;
 
 }
-
-/**/ 
-
-
-
-
-
 /*run towards section*/ 
 
 .rn_towards{
@@ -354,10 +346,6 @@ body{
     color:#FFFFFF;
     font-size: 30px;
 }
-
-
-
-
 
 .cprt{
     text-align: center;
